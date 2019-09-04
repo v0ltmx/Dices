@@ -1,3 +1,3 @@
 # Dices
 Game of dices
-trabalhado na aula de poo
+worked in the discipline of POO
