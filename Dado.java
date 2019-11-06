@@ -3,10 +3,6 @@
  */
 package jogodados;
 
-/**
- *
- * @author Laura Emmanuella <lauraemmanuella at eaj.ufrn.br>
- */
 public class Dado {
 
     private int valorFace;
