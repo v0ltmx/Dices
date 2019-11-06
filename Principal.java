@@ -3,10 +3,6 @@
  */
 package jogodados;
 
-/**
- *
- * @author Laura Emmanuella <lauraemmanuella at eaj.ufrn.br>
- */
 public class Principal {
    
     public static void main(String[] args) {
