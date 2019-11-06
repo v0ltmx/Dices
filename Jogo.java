@@ -5,10 +5,6 @@ package jogodados;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Laura Emmanuella <lauraemmanuella at eaj.ufrn.br>
- */
 public class Jogo {
 
     private final Scanner entrada = new Scanner(System.in);
